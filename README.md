@@ -2,12 +2,9 @@
   <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/serjkomarovsky/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="mailto:serj.komarovsky@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/serjkomarovsky/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  &nbsp;
+  <a href="mailto:serj.komarovsky@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 ### Hi, my name is Sergey
